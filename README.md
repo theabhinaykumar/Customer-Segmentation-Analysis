@@ -31,7 +31,7 @@ This project performs a customer segmentation analysis for an e-commerce company
 - Improves **customer engagement** with data-driven strategies.
 
 ## Author
-Your Name
+Abhinay Kumar
 
 ---
-For questions, reach out via [LinkedIn](https://linkedin.com/in/yourprofile).
+For questions, reach out via [LinkedIn](https://linkedin.com/in/theabhinaykumar).
